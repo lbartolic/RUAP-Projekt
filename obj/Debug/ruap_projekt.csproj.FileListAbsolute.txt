@@ -1,0 +1,2 @@
+C:\Users\Student\RUAP-Projekt\ruap_projekt\bin\Debug\ruap_projekt.exe.config
+C:\Users\Student\RUAP-Projekt\bin\Debug\ruap_projekt.exe.config
