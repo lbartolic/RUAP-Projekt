@@ -11,6 +11,8 @@ namespace ruap_projekt
         static void Main(string[] args)
         {
             Console.Write("Pozdrav, izmjena...");
+
+            Console.Write("Pozdrav");
         }
     }
 }
